@@ -1,0 +1,12 @@
+{
+  "name": "frankverhoeven/roundcube_fv_logo",
+  "description": "FV Logo for Roundcube Mail",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Frank Verhoeven",
+      "email": "hi@frankverhoeven.me"
+    }
+  ]
+}
