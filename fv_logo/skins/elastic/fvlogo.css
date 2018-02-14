@@ -1,0 +1,10 @@
+.task-login #layout>.content {
+    background: url(images/logo-black.svg) center 15% no-repeat;
+    background-size: auto 15%
+}
+
+#logo,
+#toplogo {
+    max-height: 32px;
+    margin-top: 5px;
+}
