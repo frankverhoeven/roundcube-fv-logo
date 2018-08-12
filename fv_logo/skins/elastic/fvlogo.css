@@ -1,10 +1,14 @@
-.task-login #layout>.content {
-    background: url(images/logo-black.svg) center 15% no-repeat;
-    background-size: auto 15%
+#logo {
+    display: none !important;
 }
 
-#logo,
-#toplogo {
-    max-height: 32px;
-    margin-top: 5px;
+.task-login #layout>.content {
+    background: url(images/logo-black.svg) center 18vh no-repeat;
+    background-size: auto 22vh;
+    padding-top: 22vh;
+}
+
+.popover-header {
+    background: url(images/logo-black.svg) center 1rem no-repeat;
+    background-size: auto 3rem;
 }
