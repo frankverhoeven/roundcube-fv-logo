@@ -3,12 +3,12 @@
 }
 
 .task-login #layout>.content {
-    background: url(images/logo-black.svg) center 18vh no-repeat;
-    background-size: auto 22vh;
-    padding-top: 22vh;
+    background: url(images/logo-black.svg) center 16vh no-repeat;
+    background-size: auto 18vh;
+    padding-top: 20vh;
 }
 
 .popover-header {
-    background: url(images/logo-black.svg) center 1rem no-repeat;
+    background: url(images/logo-black.svg) center .5rem no-repeat;
     background-size: auto 3rem;
 }
