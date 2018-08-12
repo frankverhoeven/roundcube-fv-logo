@@ -9,6 +9,6 @@
 }
 
 .popover-header {
-    background: url(images/logo-black.svg) center .5rem no-repeat;
-    background-size: auto 3rem;
+    background: url(images/logo-black.svg) center 1rem no-repeat;
+    background-size: auto 2.5rem;
 }
